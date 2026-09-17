@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "gothic";
+    src: url('/fonts/Carmen.ttf');
+}
+
+.caption-font {
+    font-family: 'gothic';
+}
+
+@font-face {
+    font-family: 'main';
+    src: url('/fonts/LXGWWenKaiMonoTC-Regular.ttf');
+}
+
+* {
+    font-family: 'main';
+}

@@ -1,0 +1,70 @@
+{
+    "familys": [
+        "vegetable",
+        "berry",
+        "fruit",
+        "nut"
+    ],
+    "fetcares": [
+        {
+            "name": {
+                "en": "Koroleva",
+                "ru": "Королева"
+            },
+            "family": "fruit",
+            "sub_family": "pomegranate",
+            "card_image": "/fetcares/queen/t.png",
+            "view_image": "/fetcares/queen/f.png",
+            "owner": "Morion",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "name": {
+                "en": "Korol",
+                "ru": "Король"
+            },
+            "family": "fruit",
+            "sub_family": "pomegranate",
+            "card_image": "/fetcares/king/t.png",
+            "view_image": "/fetcares/king/f.png",
+            "owner": "Morion",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "name": {
+                "en": "Usik",
+                "ru": "Усик"
+            },
+            "family": "vegetable",
+            "sub_family": "peas",
+            "card_image": "/fetcares/usik/t.png",
+            "view_image": "/fetcares/usik/f.png",
+            "owner": "Morion",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+            "name": {
+                "en": "Krepish & Suharik",
+                "ru": "Крепыш и Сухарик"
+            },
+            "family": "vegetable",
+            "sub_family": "redish",
+            "card_image": "/fetcares/krepish/t.png",
+            "view_image": "/fetcares/krepish/f.png",
+            "owner": "Yummy_Korzh",
+            "link": "https://toyhou.se/Yummy_Korzh"
+        },
+        {
+            "name": {
+                "en": "Shapochka",
+                "ru": "Шапочка"
+            },
+            "family": "vegetable",
+            "sub_family": "onion",
+            "card_image": "/fetcares/shopochka/t.png",
+            "view_image": "/fetcares/shopochka/f.png",
+            "owner": "Yummy_Korzh",
+            "link": "https://toyhou.se/Yummy_Korzh"
+        }
+    ]
+}
