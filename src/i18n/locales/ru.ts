@@ -54,7 +54,10 @@ export const ru: Translations = {
             pomegranate: "Гранат",
             peas: "Горох",
             redish: "Редиска",
-            onion: "Лук"
+            onion: "Лук",
+            mango: "Манго",
+            apple: "Яблоко",
+            lemon: "Лимон"
         },
         display: {
             family: "Семейство",

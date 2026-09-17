@@ -53,7 +53,10 @@ export const en = {
             pomegranate: "Pomegranate",
             peas: "Peas",
             redish: "Redish",
-            onion: "Onion"
+            onion: "Onion",
+            mango: "Mango",
+            apple: "Apple",
+            lemon: "Lemon"
         },
         display: {
             family: "Family",
