@@ -65,6 +65,18 @@
             "view_image": "/fetcares/shopochka/f.png",
             "owner": "Yummy_Korzh",
             "link": "https://toyhou.se/Yummy_Korzh"
+        },
+        {
+            "name": {
+                "en": "Lenonard",
+                "ru": "Лемонард"
+            },
+            "family": "fruit",
+            "sub_family": "lemon",
+            "card_image": "/fetcares/limonad/f.png",
+            "view_image": "/fetcares/limonad/f.png",
+            "owner": "Feli",
+            "link": "https://t.me/Felicesta"
         }
     ]
 }
